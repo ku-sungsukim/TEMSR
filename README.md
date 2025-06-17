@@ -17,6 +17,7 @@ pip install -r requirements.txt
 ## Dataset Preparation
 Training data: data/dataset1/128_512_train/SEED1/hr_512/
  - Put your personal images for training in the directory (only high-resolution images, ex) 512x512)
+
 Testing data: data/dataset1/128_512_test/SEED1/lr_512/
  - Put your personal images for testing in the directory (only low-resolution images, ex) 128x128)
  - You can other folders for testing 
